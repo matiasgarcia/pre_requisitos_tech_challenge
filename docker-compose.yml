@@ -1,0 +1,20 @@
+version: '3.0'
+services:
+  db:
+    container_name: pre_requisitos_db
+    image: mysql:8.3
+    restart: always
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_DATABASE: pre_requisitos
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "17000:3306"
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d
+    networks:
+      - pre_requisitos
+
+networks:
+  pre_requisitos:
+    name: pre_requisitos
