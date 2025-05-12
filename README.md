@@ -1,7 +1,8 @@
 # Pre-requerimientos
-- Tu proyecto debe poder conectarse a un MySQL
-- Es ideal que puedas conectarte a un MySQL desde alguna herramienta para explorar la db, ya sea: mysql-cli, dbeaver, otros.
-- Tenés que tener instalado `docker` y ser capaz de ejecutar `docker-compose up` **sin problemas**
+- **Obligatorio** Un IDE configurado para codear en un proyecto Java
+- **Obligatorio** Tener creado un proyecto Java que pueda conectarse a un MySQL
+- **Obligatorio** Tener instalado `docker` y ser capaz de ejecutar `docker-compose up` *sin problemas*
+- **Opcional** que puedas conectarte a un MySQL desde alguna herramienta para explorar la db, ya sea: mysql-cli, dbeaver, otros.
 
 ## Como probar
 
