@@ -1,8 +1,8 @@
 # Pre-requerimientos
-- **Obligatorio** Un IDE configurado para codear en un proyecto Java
-- **Obligatorio** Tener creado un proyecto Java (con framework y arquitectura de software preferida) que pueda conectarse a una database MySQL
-- **Obligatorio** Tener instalado [Docker](https://www.docker.com/) y ser capaz de ejecutar `docker-compose up` *sin problemas*
-- **Obligatorio** Poder compartir pantalla, audio y cámara a través de Google Meet sin problemas
+- **Obligatorio** Un IDE configurado para codear en un proyecto Java que pueda conectarse a una base de datos MySQL.
+- **Obligatorio** Tener instalado `docker` y ser capaz de ejecutar `docker-compose up` *sin problemas*
+- **Obligatorio** Poder compartir pantalla completo, audio y cámara en Google Meet
+- **Obligatorio** Tener `git` instalado y una cuenta en GitHub creada
 - **Opcional** que puedas conectarte a un MySQL desde alguna herramienta para explorar la db, ya sea: mysql-cli, dbeaver, otros.
 
 ## Cómo probar config docker
