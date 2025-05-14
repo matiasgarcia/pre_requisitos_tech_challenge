@@ -1,6 +1,6 @@
 # Pre-requerimientos
 
-- **Obligatorio** Un IDE configurado para codear en un proyecto Angular. Podés tener las librerías de preferencia que quieras para resolver problemas comunes: manejo de http requests, estado, librería de componentes de preferencia...
+- **Obligatorio** Un proyecto Angular nuevo. Podés tener las librerías de preferencia que quieras para resolver problemas comunes: manejo de http requests, estado, librería de componentes de preferencia...
 - **Obligatorio** Tener instalado `docker` y ser capaz de ejecutar `docker-compose up` *sin problemas*
 - **Obligatorio** Poder compartir pantalla completo, audio y cámara en Google Meet
 - **Obligatorio** Tener `git` instalado y una cuenta en GitHub creada
